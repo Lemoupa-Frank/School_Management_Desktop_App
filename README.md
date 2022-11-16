@@ -1,5 +1,5 @@
 # School_Management_Desktop_App
-Built with javaswing for GUI components applicationdprovides and admin functionality and a student functionality
+Built with javaswing for GUI components applicationdprovides an admin functionality and a student functionality
 
 #Admin refers to the user able approve candidats into students and and choose their cycle and department
 #Student is initially a candidate whhen he applies he might now become a student and register courses
